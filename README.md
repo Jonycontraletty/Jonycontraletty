@@ -1,15 +1,13 @@
-Sure, here’s a filled-out example for your GitHub README:
+Here's a version with modified rhetoric:
 
----
+👋 Hi, I'm @Jonycontraletty
 
-👋 Hi, I’m @Jonycontraletty
+👀 I'm interested in fast and profitable deals, cooperation that brings in a stable income.
 
-- 👀 I’m interested in software development, data science, and open-source projects.
-- 🌱 I’m currently learning advanced Python, cloud computing, and machine learning.
-- 💞️ I’m looking to collaborate on innovative tech projects and community-driven software.
-- 📫 How to reach me: Email me at jony@example.com or connect with me on telegram: @Goldwell_Partners
-- 😄 Pronouns: he/him.
+💰 Always open to new opportunities and partnerships where there is a prospect of long-term earnings.
 
----
+🔄 The more movement, the better. Flexibility, speed and results are what really matter.
 
-Feel free to adjust any part of this to better fit your profile and preferences!
+📫 You can contact me by email jony@example.com or in Telegram: @Goldwell_Partners.
+
+If you have interesting proposals, let's discuss them!
